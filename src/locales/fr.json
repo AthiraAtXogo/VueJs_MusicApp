@@ -1,0 +1,16 @@
+{
+
+    "home":{
+    "listen":"Écoutez de la bonne musique !"
+
+    },
+    "about":{
+    "listen":"À propos de l'application Musique!"
+
+    },
+
+    "manage":{
+        "my_songs":"Mes chansons"
+    }
+    
+}
